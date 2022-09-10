@@ -18,9 +18,11 @@ Describe to Dana how someone might use the new webpage by walking her through th
 Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
 
-After converting array in to table Dana created filters to help users search based on different criteria. 
-<form>
-                      
+With her developing coding skills Dana created filters to help users search based on different criteria that includes single or more elements at a time search.
+
+
+
+<form>                     
   
                         <p>Filter Search</p>
                       </form>                    
