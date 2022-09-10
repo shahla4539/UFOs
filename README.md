@@ -64,7 +64,7 @@ With her developing coding skills Dana created filters to help users search base
 
    
    
-One can also search data based on two criteria and the filter will bring up the data that will have that particularly common elements as for example in the image below I searched for the date **1/8/2010** and shape **triangle**.
+One can also search data based on two criteria and the filter will bring up the data that will have that particularly common elements as for example in the image below I searched for the date **1/9/2010** and city **woodbridge**.
    
    ![image](https://user-images.githubusercontent.com/105535250/189467216-7ed43b20-7793-4033-9a79-7348e5b6d43d.png)
 
