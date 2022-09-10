@@ -61,9 +61,10 @@ One can also search data based on two criteria and the filter will bring up the 
    
    
    
-Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+# Summary: 
+Overall Dana did great work but there is still room for improvement.
 
-Recommendation:
+# Recommendation:
 For better visualization Histograms can be added to visualize specific aspects of the data such as UFO sightings by year, frequesncy of UFO sighting shapes, and UFO sightings by specific states.
 
 
