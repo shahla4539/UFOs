@@ -62,9 +62,9 @@ One can also search data based on two criteria and the filter will bring up the 
    
    
 # Summary: 
-Overall Dana did great work but there is still room for improvement.
+Overall Dana did great work but there is still room for improvement. One of the major drawback of her webpage is there is no visual presentation.
 
 # Recommendation:
-For better visualization Histograms can be added to visualize specific aspects of the data such as UFO sightings by year, frequesncy of UFO sighting shapes, and UFO sightings by specific states.
+For better visualization **Histograms** can be added to visualize specific aspects of the data such as UFO sightings by year, frequesncy of UFO sighting shapes, and UFO sightings by specific states.
 
 
