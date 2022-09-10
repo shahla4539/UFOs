@@ -1,10 +1,10 @@
 # UFOs
 
-# Overview of Project:
+## Overview of Project:
 
 Dana's goal is to create an interactive webpage that allows readers to parse the data around UFO sightings. So, she essentially needs to build two things: the webpage that will allow users to view the data (HTML) and a dynamic table that will present it (JavaScript).
 
-# Results:
+## Results:
 The first task was to convert the array into a HTML table and fill it with the data from data.js. She also linked image and a style sheet as well as javascript scripts.
 
 ![image](https://user-images.githubusercontent.com/105535250/189467458-99b98a1d-1672-4162-9100-15c5cfa8f8f0.png)
@@ -61,10 +61,10 @@ One can also search data based on two criteria and the filter will bring up the 
    
    
    
-# Summary: 
+## Summary: 
 Overall Dana did great work but there is still room for improvement. One of the major drawback of her webpage is there is no visual presentation.
 
-# Recommendation:
+## Recommendation:
 For better visualization **Histograms** can be added to visualize specific aspects of the data such as UFO sightings by year, frequesncy of UFO sighting shapes, and UFO sightings by specific states.
 
 
