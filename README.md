@@ -12,9 +12,10 @@ Summary: In a summary statement, describe one drawback of this new design and tw
 
 After converting array in to table Dana created filters to help users search based on different criteria. 
 <form>
-                        <p>Filter Search</p>
-                      </form>
                       
+  
+                        <p>Filter Search</p>
+                      </form>                    
         
                             <li class="bg-dark">
                                 <label for="date">Enter Date</label></li>
