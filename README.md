@@ -11,13 +11,6 @@ The first task was to convert the array into a HTML table and fill it with the d
 
 
 
-
-
-
-Describe to Dana how someone might use the new webpage by walking her through the process of 
-Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
-
-
 With her developing coding skills Dana created filters to help users search based on different criteria that includes single or more elements at a time search.
 
 
@@ -55,17 +48,19 @@ With her developing coding skills Dana created filters to help users search base
                     
    
    
-
-   Dana created different search criterias. Below is the image where I filtered date only and it gave the data of that particular date.
+Dana created different search criterias. Below is the image where I filtered date only and it gave the data of that particular date.
    
    
-   
-   ![image](https://user-images.githubusercontent.com/105535250/189467784-87e38c79-7930-4651-9859-3a9b0c3750e6.png)
+![image](https://user-images.githubusercontent.com/105535250/189467784-87e38c79-7930-4651-9859-3a9b0c3750e6.png)
 
    
    
 One can also search data based on two criteria and the filter will bring up the data that will have that particularly common elements as for example in the image below I searched for the date **1/9/2010** and city **woodbridge**.
    
-   ![image](https://user-images.githubusercontent.com/105535250/189467216-7ed43b20-7793-4033-9a79-7348e5b6d43d.png)
+![image](https://user-images.githubusercontent.com/105535250/189467216-7ed43b20-7793-4033-9a79-7348e5b6d43d.png)
+   
+   
+   
+Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
 
