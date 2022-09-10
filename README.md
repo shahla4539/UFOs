@@ -14,7 +14,7 @@ The first task was to convert the array into a HTML table and fill it with the d
 
 
 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+Describe to Dana how someone might use the new webpage by walking her through the process of 
 Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
 
@@ -56,7 +56,7 @@ With her developing coding skills Dana created filters to help users search base
    
    
 
-   
+   Dana created different search criterias. Below is the image where I filtered date only and it gave the data of that particular date.
    
    
    
